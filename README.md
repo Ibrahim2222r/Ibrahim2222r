@@ -61,7 +61,7 @@
 
 <section>
     <h2>معلومات الاتصال</h2>
-    <p>البريد الإلكتروني: <a href="mailto:ibrahim@example.com">ibrahim@example.com</a></p>
+    <p>البريد الإلكتروني: <a href="mailto:">mbrm96203@gmail.com</a>mbrm96203@gmail.com</p>
 </section>
 
 </body>
